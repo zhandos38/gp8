@@ -23,7 +23,7 @@ $this->params['breadcrumbs'][] = $this->title;
     </h1>
 
     <p class="text-center">
-        <img src="/img/building.jpg" alt="building" style="width: 100%;">
+        <img src="/img/fon.jpg" alt="building" style="width: 100%;">
     </p>
 
         <header class="article-header clearfix" style='box-sizing: border-box; display: block; clear: both; color: rgb(51, 51, 51); font-family: "Open Sans", Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>
@@ -54,7 +54,7 @@ $this->params['breadcrumbs'][] = $this->title;
         </h1>
 
         <p class="text-center">
-            <img src="/img/building.jpg" alt="building" style="width: 100%;">
+            <img src="/img/fon.jpg" alt="building" style="width: 100%;">
         </p>
 
         <header class="article-header clearfix" style='box-sizing: border-box; display: block; clear: both; color: rgb(51, 51, 51); font-family: "Open Sans", Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>
@@ -103,7 +103,3 @@ $this->params['breadcrumbs'][] = $this->title;
         <section class="article-content clearfix" style='box-sizing: border-box; display: block; clear: none; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Open Sans", Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><br></section>
     <?php endif; ?>
 </div>
-<video autoplay muted loop id="myVideo" width="100%">
-    <source src="/file/about-video.mp4" type="video/mp4">
-    Your browser does not support HTML5 video.
-</video>
