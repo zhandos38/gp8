@@ -19,7 +19,7 @@ $this->params['breadcrumbs'][] = $this->title;
 <div class="site-about">
     <?php if (Yii::$app->language === 'ru'): ?>
     <h1>
-        ГКП НА ПХВ "ГОРОДСКОЙ ОНКОЛОГИЧЕСКИЙ ЦЕНТР"
+        <?= Yii::t('site', 'ГКП НА ПХВ "Городская поликлиника № 8"') ?>
     </h1>
 
     <p class="text-center">
@@ -50,7 +50,7 @@ $this->params['breadcrumbs'][] = $this->title;
         <section class="article-content clearfix" style='box-sizing: border-box; display: block; clear: none; margin-top: 0px; color: rgb(51, 51, 51); font-family: "Open Sans", Helvetica, Arial, sans-serif; font-size: 13px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'><br></section>
     <?php else: ?>
         <h1>
-            ШЖҚ «ҚАЛАЛЫҚ ОНКОЛОГИЯЛЫҚ ОРТАЛЫҚ» МКК
+            <?= Yii::t('site', 'ГКП НА ПХВ "Городская поликлиника № 8"') ?>
         </h1>
 
         <p class="text-center">
