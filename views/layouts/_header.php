@@ -9,7 +9,7 @@
                     </a>
                     <div style="padding-left: 40px">
                         <div class="header__name">
-                            <?= Yii::t('site', '"Управление здравохранения города Шымкент"') ?>
+                            <?= Yii::t('site', '"УПРАВЛЕНИЕ ЗДРАВООХРАНЕНИЯ ГОРОДА ШЫМКЕНТ"') ?>
                         </div>
                         <div class="header__name">
                             <b><?= Yii::t('site', 'ГКП НА ПХВ "Городская поликлиника № 8"') ?></b>
