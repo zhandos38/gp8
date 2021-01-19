@@ -52,7 +52,7 @@ $this->title = 'График врача';
                             <table class="table table-responsive">
                                 <thead>
                                 <tr>
-                                    <th><?= Yii::t('site', 'Понидельник') ?></th>
+                                    <th><?= Yii::t('site', 'Понедельник') ?></th>
                                     <th><?= Yii::t('site', 'Вторник') ?></th>
                                     <th><?= Yii::t('site', 'Среда') ?></th>
                                     <th><?= Yii::t('site', 'Четверг') ?></th>
